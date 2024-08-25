@@ -1,0 +1,14 @@
+.dealerLabels {
+}
+
+.playButtons {
+    -fx-font-size: 36px;
+    -fx-cursor: hand;
+}
+
+.scoreboardTitles {
+    -fx-font-size: 18px;
+}
+.scoreboardContent {
+    -fx-font-size: 20px;
+}
